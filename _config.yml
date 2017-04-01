@@ -1,14 +1,5 @@
 theme: jekyll-theme-cayman
 title: hello world
-tagline: what's this
-author : boge
-
-name : Name Lastname
-
-email : blah@email.test
-
-github : username
-
-twitter : username
-
-feedburner : feedname
+layout: post
+date:   2015-11-17 16:16:01 -0600
+categories: jekyll update

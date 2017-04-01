@@ -1,2 +1,13 @@
 theme: jekyll-theme-cayman
 title: hello world
+author : boge
+
+name : Name Lastname
+
+email : blah@email.test
+
+github : username
+
+twitter : username
+
+feedburner : feedname

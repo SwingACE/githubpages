@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: hello
 description: "Cool Blog"
 SEOTitle: Hux Blog
+header-img: img/test.jpg
 tags: wwdd
